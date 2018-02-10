@@ -1,0 +1,8 @@
+two projects 
+1) ASP MVC 
+2) Class libraries
+Create SQL database
+Add constructor model
+Create controller with views
+Oveerride OoException method implement the use of logger.
+
