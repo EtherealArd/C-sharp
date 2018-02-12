@@ -1,0 +1,17 @@
+C:\Cources\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\012_Refactoring\Refactoring\obj\x86\Debug\Refactoring.exe
+C:\Cources\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\012_Refactoring\Refactoring\obj\x86\Debug\Refactoring.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\012_Refactoring\Refactoring\bin\Debug\Refactoring.exe
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\012_Refactoring\Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\012_Refactoring\Refactoring\obj\x86\Debug\Refactoring.exe
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\012_Refactoring\Refactoring\obj\x86\Debug\Refactoring.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\012_Refactoring\Refactoring\obj\x86\Debug\012_Refactoring.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\obj\x86\Debug\Refactoring.exe
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\obj\x86\Debug\Refactoring.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\bin\Debug\Refactoring.exe
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\obj\x86\Debug\012_Refactoring.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\obj\x86\Debug\Refactoring.exe
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\obj\x86\Debug\Refactoring.pdb
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\bin\Debug\Refactoring.exe
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\010 - Введение в рефакторинг\010 - Введение в рефакторинг\001_Refactoring\12_Refactoring\obj\x86\Debug\012_Refactoring.csprojResolveAssemblyReference.cache
